@@ -1,6 +1,6 @@
 - 👋 Hi, I’m aakash
 - 👀 I’m interested in developing web
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning javascript and github-advance  
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me to my mail id
 
